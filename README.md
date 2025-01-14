@@ -1,6 +1,6 @@
 # Dashboard_PowerBI_Inst_Fin
 ## Projeto em Power BI de uma instituição financeira com o objetivo de melhor entender os padrões e impactos dos processo de tomada de decisão dos clientes
-Esse dashboard foi construído a partir de uma amostragem de dados fictícios de uma Instituição Financeira. 
+Esse dashboard foi construído a partir de uma amostragem de dados fictícios de uma Instituição Financeira.  
 Sua análise pretende, entender os padrões, os impactos e as características demográficas frente ao processo de tomada de decisão dos clientes e como os contatos realizados pelo comercial em seus diversos canais influenciam nos resultados.
 A partir dessa amostra foi possível gerar uma série de visualizações que nos forneceram insights valiosos para estratégias de marketing, decisão de concepção de crédito ou não, bem como a otimização de processos.
 No primeiro gráfico (Aceitaram), podemos observar que uma grande parcela dos clientes abordados não aceito a proposta. Isso deu um valioso insight na direção de podermos segmentar a comunicação entre os clientes mais e menos propensos a aceitar as ofertas, o que poderia ser feito em um segundo momento com base em uma avaliação mais minuciosa das características de cada um dos clientes dessa amostra como, por exemplo, idade, profissão, saldo disponível, momento de vida, histórico de contatos ativo, possíveis pontos de tensão, e afins
